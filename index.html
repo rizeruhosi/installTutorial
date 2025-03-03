@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>プロファイルインストール手順</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Noto Sans JP', sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            font-size: 24px;
+            color: #444;
+            text-align: center;
+        }
+
+        .step {
+            margin: 20px 0;
+            padding: 15px;
+            border-left: 5px solid #007bff;
+            background: #f9f9f9;
+            border-radius: 5px;
+        }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .btn {
+            display: block;
+            width: 100%;
+            padding: 15px;
+            margin-top: 20px;
+            background: #007bff;
+            color: #fff;
+            text-align: center;
+            border-radius: 5px;
+            font-weight: bold;
+            border: none;
+            cursor: pointer;
+        }
+
+        .btn:hover {
+            background: #0056b3;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px;
+            }
+
+            h1 {
+                font-size: 20px;
+            }
+
+            .btn {
+                font-size: 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>プロファイルのインストール手順</h1>
+        
+        <div class="step">
+            <h2>ステップ 1</h2>
+            <p><a href="https://khoindvn.io.vn/document/DNS/khoindns.mobileconfig?sign=1" target="_blank">こちらのリンク</a>を開いて「許可」を押してください。</p>
+            <p>その後、<strong>設定 > ダウンロード済みのプロファイル > インストール</strong> を3回押します。</p>
+        </div>
+
+        <div class="step">
+            <h2>ステップ 2</h2>
+            <p><a href="https://api.khoindvn.eu.org/0qvzM4" target="_blank">こちらのリンク</a>を開いて「インストール」を押します。</p>
+            <p>その後、<strong>設定 > 一般 > VPNとデバイス管理 > AVEX DIGITAL INC.</strong> を選択し、「信頼」を押します。</p>
+        </div>
+
+        <div class="step">
+            <h2>ステップ 3</h2>
+            <p><a href="https://khoindvn.io.vn/document/DNS/Esign-Certs.zip" target="_blank">Esign-Certs.zip</a> と <a href="https://github.com/U5KUN/pe/releases/download/new/ProductName_v9.16.0.ipa" target="_blank">ProductName_v9.16.0.ipa</a> をダウンロードします。</p>
+            <p>Esign を開き、 <strong>••• > Import</strong> を選択し、ダウンロードしたファイルを選びます。</p>
+            <p><strong>Esign-Certs.zip</strong> をタップして解凍し、Esign-Certsフォルダ内の AVEX... を押して <strong>Import certificate Management</strong> を選択。</p>
+            <p>戻って <strong>ProductName_v9.16.0.ipa</strong> を押し <strong>Import App Library</strong> を選択します。</p>
+            <p>画面下の「Apps」を押して <strong>脱獄ごっこ９.１６.0</strong> を選択し、「Signature」ボタンを押します。</p>
+            <p>しばらく待つと「Install」ボタンが表示されるので、インストールを実行してください。</p>
+        </div>
+
+        <button class="btn" onclick="window.location.href='https://khoindvn.io.vn/document/DNS/khoindns.mobileconfig?sign=1'">プロファイルをダウンロード</button>
+        <button class="btn" onclick="window.location.href='https://github.com/U5KUN/pe/releases/download/new/ProductName_v9.16.0.ipa'">IPAをダウンロード</button>
+        <button class="btn" onclick="window.location.href='https://khoindvn.io.vn/document/DNS/Esign-Certs.zip'">Esign-Certs.zipをダウンロード</button>
+    </div>
+</body>
+</html>
