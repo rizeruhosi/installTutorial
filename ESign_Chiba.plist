@@ -17,13 +17,13 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.applejr.esign.Chiba</string>
+        <string>jp.uuum.playingescape181</string>
         <key>bundle-version</key>
-        <string>1</string>
+        <string>1.8.1</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>Esign (Chiba)</string>
+        <string>脱獄ごっこv1.8.1</string>
       </dict>
     </dict>
   </array>
