@@ -1,7 +1,7 @@
 {
   "name": "playingescape pe",
   "identifier": "jp.playingescape",
-  "sourceURL": "https://provenance-emu.com/apps.json",
+  "sourceURL": "",
   "apps": [
     {
       "name": "脱獄ごっこv9.8.0",
@@ -15,7 +15,7 @@
       "localizedDescription": "脱獄ごっこは、脱出メカニクス、欺瞞、迅速な意思決定を組み合わせたオンラインのマルチプレイヤーアクションゲームです。クラシックな「人間対オオカミ」のゲームにインスパイアされており、2つのチームが対立する目標を持って対戦します。オオカミは全員を捕まえることを目指し、市民は協力して生き延び、脱出しなければなりません。",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHItJsLrOjeUx29G7BFj2OS-V2emvgUcQ2QLT7ZdxopA&s=10",
       "tintColor": "#162434",
-      "size": 77010038,
+      "size": 291504128,
       "permissions": [
         {
           "type": "photos",
