@@ -1,7 +1,7 @@
 {
-  "name": "playingescape pe",
+  "name": "脱獄ごっこ",
   "identifier": "jp.playingescape",
-  "sourceURL": "",
+  "sourceURL": "https://raw.githubusercontent.com/rizeruhosi/installTutorial/refs/heads/main/app.json",
   "apps": [
     {
       "name": "脱獄ごっこv9.8.0",
