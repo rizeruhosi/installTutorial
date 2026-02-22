@@ -1,0 +1,34 @@
+{
+  "name": "playingescape pe",
+  "identifier": "jp.playingescape",
+  "sourceURL": "https://provenance-emu.com/apps.json",
+  "apps": [
+    {
+      "name": "脱獄ごっこv9.8.0",
+      "bundleIdentifier": "jp.playingescape.v9.8.0",
+      "developerName": "",
+      "subtitle": "復活版脱獄ごっこ",
+      "version": "9.8.0",
+      "versionDate": "2026-12-30T00:01:00-05:00",
+      "versionDescription": "iOS/iPadOSとAndroidが一緒に遊べるようになりました!",
+      "downloadURL": "https://github.com/U5KUN/pe/releases/download/new/ProductName_v9.8.0.ipa",
+      "localizedDescription": "脱獄ごっこは、脱出メカニクス、欺瞞、迅速な意思決定を組み合わせたオンラインのマルチプレイヤーアクションゲームです。クラシックな「人間対オオカミ」のゲームにインスパイアされており、2つのチームが対立する目標を持って対戦します。オオカミは全員を捕まえることを目指し、市民は協力して生き延び、脱出しなければなりません。",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHItJsLrOjeUx29G7BFj2OS-V2emvgUcQ2QLT7ZdxopA&s=10",
+      "tintColor": "#162434",
+      "size": 77010038,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": ""
+        }
+      ],
+      "screenshotURLs": [
+        "https://img.utdstc.com/screen/d07/d16/d07d16546a340252d2401bcf0ddeb04601073d869d6239f266798be77886194e:300",
+        "https://img.utdstc.com/screen/92a/b79/92ab79b48e48e7d8e0b8116d868cedbef9134a8ab384b16d405acd58b66b06ef:300",
+        "https://img.utdstc.com/screen/2b9/b0c/2b9b0cd2970b5b69ada39bd04cd16e9843d363db8508c5511ac2829026c711d3:300",
+        "https://img.utdstc.com/screen/4ce/2f9/4ce2f94f4f63b24128e3014a335f00817169991d506aa2aee768c15f659ff90e:300"
+      ]
+    }
+  ],
+  "userInfo": {}
+}
